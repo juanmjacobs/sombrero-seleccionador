@@ -38,7 +38,7 @@ const questions = [
         text: "Si tuvieras que elegir un IDE por el resto de tu vida ¿Cual seria?",
         options: [
             { text: "Sublime", team: "juano" },
-            { text: "WebStorm", team: "gasti" },
+            { text: "VS Code", team: "gasti" },
         ]
     },
     {
