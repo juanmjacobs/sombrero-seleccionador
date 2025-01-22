@@ -61,6 +61,41 @@ const questions = [
             { text: "Un viaje cultural a museos y sitios históricos", team: "gasti" },
             { text: "Una aventura llena de adrenalina", team: "juano" }
         ]
+    },
+    {
+        text: "¿Cuál es tu relación con el café?",
+        options: [
+            { text: "Lo necesito para sobrevivir cada día", team: "gasti" },
+            { text: "Sólo lo tomo en ocasiones", team: "juano" }
+        ]
+    },
+    {
+        text: "¿Ves anime?",
+        options: [
+            { text: "No, veía de chico", team: "juano" },
+            { text: "Sí, me encanta", team: "gasti" }
+        ]
+    },
+    {
+        text: "¿Cuál es tu actitud ante las reuniones diarias de equipo?",
+        options: [
+            { text: "Prefiero reuniones cortas y al grano", team: "juano" },
+            { text: "Me gusta compartir ideas y socializar", team: "gasti" }
+        ]
+    },
+    {
+        text: "Si va a entra una persona nueva a desarrollo...",
+        options: [
+            { text: "Espero a que entre para ir conociéndolo sin invadir su privacidad", team: "juano" },
+            { text: "Se stalkea por redes para ver quién es", team: "gasti" }
+        ]
+    },
+    {
+        text: "¿Cuál es tu estilo de playlist favorita para trabajar?",
+        options: [
+            { text: "Lo-fi o música instrumental", team: "gasti" },
+            { text: "Rock o algo movido para motivarme", team: "juano" }
+        ]
     }
 ];
 
