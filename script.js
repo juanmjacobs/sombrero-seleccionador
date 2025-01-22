@@ -3,7 +3,7 @@ const questions = [
         text: "¿Qué prefieres hacer en tu tiempo libre?",
         options: [
             { text: "Leer un buen libro", team: "gasti" },
-            { text: "Salir de fiesta con amigos", team: "juano" }
+            { text: "Salir con amigos", team: "juano" }
         ]
     },
     {
