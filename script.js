@@ -84,7 +84,7 @@ const questions = [
         ]
     },
     {
-        text: "Si va a entra una persona nueva a desarrollo...",
+        text: "Si va a entrar una persona nueva al equipo de desarrollo...",
         options: [
             { text: "Espero a que entre para ir conociéndolo sin invadir su privacidad", team: "juano" },
             { text: "Se stalkea por redes para ver quién es", team: "gasti" }
