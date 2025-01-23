@@ -59,7 +59,7 @@ const questions = [
         text: "¿Qué prefieres para tus vacaciones?",
         options: [
             { text: "Un viaje cultural a museos y sitios históricos", team: "gasti" },
-            { text: "Una aventura llena de adrenalina", team: "juano" }
+            { text: "Una aventura llena de naturaleza", team: "juano" }
         ]
     },
     {
