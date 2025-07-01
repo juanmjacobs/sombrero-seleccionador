@@ -137,6 +137,6 @@ document.getElementById('submit').addEventListener('click', () => {
         teamCounts[answer.value]++;
     });
 
-    const result = teamCounts.gasti > teamCounts.juano ? '¡Perteneces al Team Gasti!' : '¡Perteneces al Team Juano!';
+    const result = teamCounts.gasti > teamCounts.juano ? '¡Perteneces al Team Dark!' : '¡Perteneces al Team Juano!';
     document.getElementById('result').textContent = result;
 });
